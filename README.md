@@ -308,7 +308,7 @@ hr {
 // Auto-refresh every 10 seconds
 setTimeout(function() {
     location.reload();
-}, 60000);
+}, 10000);
 </script>
 </body>
 </html>
